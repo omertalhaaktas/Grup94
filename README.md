@@ -26,9 +26,13 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 # Sprint 1
 * **Spring İçinde Tamamlanması Beklenen Puan:** 70 Puan
 * **Daily Scrum:** Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ---------BURAYA KONUŞMA SSLERİ DOC DOSYASI ŞEKLİNDE EKLENECEK
-* **Sprint Board Update:** ![Screenshot_8](https://github.com/omertalhaaktas/Grup94/assets/115927548/ff21e87a-8a24-45f6-8ae1-28f5dfb1f028)
-
-* **Ürün Durumu:**
+* **Sprint Board Update:** ![Screenshot_10](https://github.com/omertalhaaktas/Grup94/assets/115927548/9494df54-8c44-403e-ae64-f94bbde3a6a4)
+* **Ürün Durumu:** ![WhatsApp Image 2024-07-07 at 21 58 16 (1)](https://github.com/omertalhaaktas/Grup94/assets/115927548/fe44e76e-4fde-4d0c-8556-1d8c289838dd)
+![WhatsApp Image 2024-07-07 at 21 58 16 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/ccdbbcc3-ad8d-4090-8236-5ba271c52e4e)
+![WhatsApp Image 2024-07-07 at 21 58 16](https://github.com/omertalhaaktas/Grup94/assets/115927548/9abeeeaa-2fe9-48d5-baee-2611010554ca)
+![WhatsApp Image 2024-07-07 at 21 58 17 (1)](https://github.com/omertalhaaktas/Grup94/assets/115927548/674cd286-d171-41a5-bcf0-1cb4cb7311f2)
+![WhatsApp Image 2024-07-07 at 21 58 17 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/0384d913-91c2-40b3-8ea4-04f2e842194e)
+![WhatsApp Image 2024-07-07 at 21 58 17](https://github.com/omertalhaaktas/Grup94/assets/115927548/9c549e9b-02e2-4ac1-9467-7c4c0c239145)
 * **Sprint Review:** Kullanıcı ekranları oluşturulmuş, UI/UX tasarımları yapılmış eksiklikler ve yapılacaklar değerlendirilmiş.
 * **Sprint Retrospective:** Takım içi görev dağılımı yapılmış, araştırılacak konular araştırılmış, ürün hakkında ortak bir bilinç oluşturulmuş.
 # Product Backlog URL
