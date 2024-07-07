@@ -8,13 +8,21 @@ Grup 94
 * Ömer Ufuk Sonkaya: Developer
 * Sinem Taşdemir: Developer
 ## Ürün İsmi
---Buraya Ürün İsmi Yazılacak Karar Verildikten Sonra--
+TaskMate
 ## Ürün Açıklaması
---Buraya Ürünün Genel Açıklaması--Ürünün Birincil, İkincil.. Fonksiyonları Eklenecek--
+TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanıza yardımcı olan yenilikçi bir to-do uygulamasıdır. Yapay zeka destekli özellikleri sayesinde, görevlerinizi kolayca yönetebilir ve zamanınızı en iyi şekilde değerlendirebilirsiniz. TaskMate, görevlerinizi düzenlerken size zaman kazandırır ve günlük yaşamınızı daha verimli hale getirir. Akıllı, kullanıcı dostu ve etkili görev yönetimi için TaskMate’i tercih edin!
 ## Ürünün Özellikleri
---Buraya Maddeler Halinde Ürünün Özellikleri Eklenecek--
+Akıllı Görev Oluşturma: TaskMate, kullanıcıların düzyazı olarak girdikleri görevleri analiz ederek, görev objelerine dönüştürür. Örneğin, "last date - task - specific date - description" formatında girilen bir görev, uygulama tarafından otomatik olarak sınıflandırılır ve yönetilir.
+Dinamik Hatırlatıcılar: Görevlerin önemine ve son tarihlerine göre dinamik hatırlatıcılar oluşturur, böylece hiçbir görevi kaçırmazsınız.
+Doğal Dil İşleme (NLP): Kullanıcıların doğal dilde yazdıkları görevleri kolayca ekleyebilmesi ve yapay zeka tarafından anlamlandırılması sayesinde hızlı ve etkili görev yönetimi sağlar.
+Zaman Yönetimi Önerileri: Günlük rutininize göre en uygun zamanı önererek, görevlerinizi planlamanıza yardımcı olur.
+Önceliklendirme ve Kategorilendirme: Görevlerinizi aciliyetine ve önemine göre otomatik olarak önceliklendirir ve kategorilere ayırır.
 ## Hedef Kitle
---Buraya Maddeler Halinde Ürünü Kullanacak Olan Hedef Kitleler Eklenecek--
+Bireysel Kullanıcılar: Günlük görevlerini daha iyi organize etmek isteyen bireyler.
+Profesyoneller: İş görevlerini ve projelerini etkili bir şekilde yönetmek isteyen profesyoneller.
+Takımlar ve Organizasyonlar: Takım çalışmasını kolaylaştırmak ve projeleri organize etmek isteyen ekipler.
+Öğrenciler: Akademik çalışmalarını ve ödevlerini daha iyi yönetmek isteyen öğrenciler.
+Aileler: Aile içindeki görev dağılımını ve etkinlikleri organize etmek isteyen aileler.
 # Sprint 1
 * **Spring İçinde Tamamlanması Beklenen Puan:**
 * **Puan Tamamlama Mantığı:**
