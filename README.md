@@ -24,12 +24,11 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 * **Öğrenciler:** Akademik çalışmalarını ve ödevlerini daha iyi yönetmek isteyen öğrenciler.
 * **Aileler:** Aile içindeki görev dağılımını ve etkinlikleri organize etmek isteyen aileler.
 # Sprint 1
-* **Spring İçinde Tamamlanması Beklenen Puan:**
-* **Puan Tamamlama Mantığı:**
-* **Daily Scrum:**
+* **Spring İçinde Tamamlanması Beklenen Puan:** 70 Puan
+* **Daily Scrum:** Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ---------BURAYA KONUŞMA SSLERİ DOC DOSYASI ŞEKLİNDE EKLENECEK
 * **Sprint Board Update:**
 * **Ürün Durumu:**
-* **Sprint Review:**
-* **Sprint Retrospective**
+* **Sprint Review:** Kullanıcı ekranları oluşturulmuş, UI/UX tasarımları yapılmış eksiklikler ve yapılacaklar değerlendirilmiş.
+* **Sprint Retrospective:** Takım içi görev dağılımı yapılmış, araştırılacak konular araştırılmış, ürün hakkında ortak bir bilinç oluşturulmuş.
 # Product Backlog URL
 --Buraya Trello Url Eklenecek--
