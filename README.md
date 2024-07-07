@@ -26,7 +26,8 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 # Sprint 1
 * **Spring İçinde Tamamlanması Beklenen Puan:** 70 Puan
 * **Daily Scrum:** Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: ---------BURAYA KONUŞMA SSLERİ DOC DOSYASI ŞEKLİNDE EKLENECEK
-* **Sprint Board Update:**
+* **Sprint Board Update:** ![Screenshot_8](https://github.com/omertalhaaktas/Grup94/assets/115927548/ff21e87a-8a24-45f6-8ae1-28f5dfb1f028)
+
 * **Ürün Durumu:**
 * **Sprint Review:** Kullanıcı ekranları oluşturulmuş, UI/UX tasarımları yapılmış eksiklikler ve yapılacaklar değerlendirilmiş.
 * **Sprint Retrospective:** Takım içi görev dağılımı yapılmış, araştırılacak konular araştırılmış, ürün hakkında ortak bir bilinç oluşturulmuş.
