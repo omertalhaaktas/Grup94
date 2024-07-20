@@ -46,12 +46,12 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 
 # Ürün Durumu
 * **Ekran Görüntüleri:**
+
 ![WhatsApp Image 2024-07-07 at 21 58 17 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/0384d913-91c2-40b3-8ea4-04f2e842194e)
 ![WhatsApp Image 2024-07-07 at 21 58 17](https://github.com/omertalhaaktas/Grup94/assets/115927548/9c549e9b-02e2-4ac1-9467-7c4c0c239145)
 
 * **Sprint Review:** Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmıştır. 
-* **Sprint Retrospective:**
-* * Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+* **Sprint Retrospective:** Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 # Product Backlog URL
 [Flutter Team 94 Trello Backlog Board](https://trello.com/invite/b/i8fZ36oC/ATTIfacff3f016df4d15b15e14956e1e43f80E921D59/grup94)
