@@ -33,9 +33,25 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 ![WhatsApp Image 2024-07-07 at 21 58 16 (1)](https://github.com/omertalhaaktas/Grup94/assets/115927548/fe44e76e-4fde-4d0c-8556-1d8c289838dd)
 ![WhatsApp Image 2024-07-07 at 21 58 16 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/ccdbbcc3-ad8d-4090-8236-5ba271c52e4e)
 ![WhatsApp Image 2024-07-07 at 21 58 16](https://github.com/omertalhaaktas/Grup94/assets/115927548/9abeeeaa-2fe9-48d5-baee-2611010554ca)
-![WhatsApp Image 2024-07-07 at 21 58 17 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/0384d913-91c2-40b3-8ea4-04f2e842194e)
-![WhatsApp Image 2024-07-07 at 21 58 17](https://github.com/omertalhaaktas/Grup94/assets/115927548/9c549e9b-02e2-4ac1-9467-7c4c0c239145)
+
 * **Sprint Review:** Kullanıcı ekranları oluşturulmuş, UI/UX tasarımları yapılmış eksiklikler ve yapılacaklar değerlendirilmiş.
 * **Sprint Retrospective:** Takım içi görev dağılımı yapılmış, araştırılacak konular araştırılmış, ürün hakkında ortak bir bilinç oluşturulmuş.
+# Product Backlog URL
+[Flutter Team 94 Trello Backlog Board](https://trello.com/invite/b/i8fZ36oC/ATTIfacff3f016df4d15b15e14956e1e43f80E921D59/grup94)
+
+# Sprint 2
+* **Spring İçinde Tamamlanması Beklenen Puan:** 85 Puan
+* **Daily Scrum:** Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats.docx](https://github.com/user-attachments/files/16322179/Sprint.2.Daily.Scrum.Chats.docx)
+* **Sprint Board Update:** ![Screenshot_31](https://github.com/user-attachments/assets/6efb05df-734d-4ab4-bfd1-218688cf4762)
+
+# Ürün Durumu
+* **Ekran Görüntüleri:**
+![WhatsApp Image 2024-07-07 at 21 58 17 (2)](https://github.com/omertalhaaktas/Grup94/assets/115927548/0384d913-91c2-40b3-8ea4-04f2e842194e)
+![WhatsApp Image 2024-07-07 at 21 58 17](https://github.com/omertalhaaktas/Grup94/assets/115927548/9c549e9b-02e2-4ac1-9467-7c4c0c239145)
+
+* **Sprint Review:** Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmıştır. 
+* **Sprint Retrospective:**
+* * Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
 # Product Backlog URL
 [Flutter Team 94 Trello Backlog Board](https://trello.com/invite/b/i8fZ36oC/ATTIfacff3f016df4d15b15e14956e1e43f80E921D59/grup94)
