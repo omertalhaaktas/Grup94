@@ -31,7 +31,7 @@ class _ChangePasswordState extends State<ChangePassword> {
                 child: Center(
                   child: Image.asset(
                     'lib/assets/images/logo.png',
-                    height: 170,
+                    height: 250,
                   ),
                 ),
               ),

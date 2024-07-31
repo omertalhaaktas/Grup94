@@ -27,7 +27,7 @@ class _SignInPageState extends State<SignInPage> {
                 child: Center(
                   child: Image.asset(
                     'lib/assets/images/logo.png',
-                    height: 170,
+                    height: 250,
                   ),
                 ),
               ),

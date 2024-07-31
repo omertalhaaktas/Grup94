@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hexcolor/hexcolor.dart';
 import 'package:todo_ai/screens/change_password.dart';
+import 'package:todo_ai/screens/home_page.dart';
 import 'package:todo_ai/screens/sign_up_page.dart';
 
 class LoginPage extends StatefulWidget {
@@ -28,18 +29,42 @@ class _LoginPageState extends State<LoginPage> {
                 child: Center(
                   child: Image.asset(
                     'lib/assets/images/logo.png',
-                    height: 170,
+                    height: 250,
                   ),
                 ),
               ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(8, 8, 8, 20),
-                child: Text("SIGN IN FOR SAVED TASKS",
-                    style: TextStyle(
-                      color: HexColor("A694E1"),
-                      fontFamily: "BebasNeue",
-                      fontSize: 30,
-                    )),
+                child: Column(
+                  children: [
+                    Text(
+                      "SIGN IN FOR SAVED TASKS",
+                      style: TextStyle(
+                        color: HexColor("A694E1"),
+                        fontFamily: "BebasNeue",
+                        fontSize: 30,
+                      ),
+                    ),
+                    const SizedBox(
+                        height: 16), 
+                    TextButton(
+                      onPressed: () {
+                        Navigator.of(context).pushReplacement(
+                          MaterialPageRoute(
+                            builder: (context) => const HomeScreen(),
+                          ),
+                        );
+                      },
+                      child: Text(
+                        'Continue Without Signing In',
+                        style: TextStyle(
+                          color: HexColor("A694E1"),
+                          fontSize: 16,
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
               ),
               Padding(
                 padding: const EdgeInsets.fromLTRB(16, 40, 16, 0),
