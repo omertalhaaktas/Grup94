@@ -55,3 +55,29 @@ TaskMate, günlük yaşamınızı düzenlemenize ve verimliliğinizi artırmanı
 
 # Product Backlog URL
 [Flutter Team 94 Trello Backlog Board](https://trello.com/invite/b/i8fZ36oC/ATTIfacff3f016df4d15b15e14956e1e43f80E921D59/grup94)
+
+
+# Sprint 3
+* **Spring İçinde Tamamlanması Beklenen Puan:** 75 Puan
+* **Daily Scrum:** Daily Scrum toplantıları Whatsapp ve Google Meet üzerinden yapılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum.docx](https://github.com/user-attachments/files/16474413/Daily.Scrum.docx)
+
+* **Sprint Board Update:** ![Screenshot_1](https://github.com/user-attachments/assets/2044a12e-143a-4603-a3f8-58b596d39114)
+
+# Ürün Durumu
+* **Ekran Görüntüleri:**
+
+![WhatsApp Image 2024-08-02 at 21 04 55](https://github.com/user-attachments/assets/7c6603d3-8a36-434c-a16c-49a25ca277b4)
+
+![WhatsApp Image 2024-08-02 at 21 04 54 (1)](https://github.com/user-attachments/assets/c8a906b8-1736-4e53-b26f-98947ca342c7)
+![WhatsApp Image 2024-07-31 at 22 52 09](https://github.com/user-attachments/assets/189dbd64-036b-4eed-bade-a8f70b20ad57)
+![WhatsApp Image 2024-08-02 at 20 56 46](https://github.com/user-attachments/assets/b7d7e1c1-c9d4-4e34-b13c-31126c140d0b)
+![WhatsApp Image 2024-08-02 at 20 56 50](https://github.com/user-attachments/assets/b572ca08-498a-4982-9d10-a6590ddf1965)
+![WhatsApp Image 2024-08-02 at 20 56 55](https://github.com/user-attachments/assets/a8e81ab4-32a7-4c4e-84d4-f32b7fc72fa9)
+![WhatsApp Image 2024-08-02 at 20 56 58](https://github.com/user-attachments/assets/29c3b516-4da0-4f5d-b03d-b31e8bd33dd7)![WhatsApp Image 2024-08-02 at 20 57 03](https://github.com/user-attachments/assets/b268180f-5b50-4001-be52-c66a51b75782)
+![WhatsApp Image 2024-08-02 at 21 04 54](https://github.com/user-attachments/assets/1e4cbf83-3546-40c9-974a-f02f265ca05f)
+
+* **Sprint Review:** Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmıştır. Logo yapılmıştır. Backend kodları yazılmıştır. 
+* **Sprint Retrospective:** Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+
+# Product Backlog URL
+[Flutter Team 94 Trello Backlog Board](https://trello.com/invite/b/i8fZ36oC/ATTIfacff3f016df4d15b15e14956e1e43f80E921D59/grup94)
